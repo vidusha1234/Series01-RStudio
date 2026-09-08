@@ -2,10 +2,34 @@
 title: "Series01-RStudio"
 ---
 
-## Quarto
+## Series 01
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+#load libraries
+
+```{r load-libraries}
+#load the necesary libraries for data manipulation and visualize
+ 
+
+#We need the tidyverse packagefor data manipulation and visualize
+library(tidyverse)
+```
 
 ```{r}
-1 + 1
+# create a data frame from by reading the file in data
+
+students <- read.csv("data/IEAP-2025 - Sheet1.csv")
 ```
+
+```{r table}
+#knitr::kable(students)
+
+as_tibble(students)
+```
+
+```{r}
+summary(students)
+```
+
+#Explain why the summary is different from one column to the next
+
+This summary has the height, gender, yearsinR, Yearsinpythn, years in research, cuty, lab of the with mean, median and unique values.
