@@ -1,0 +1,23 @@
+Name,Firstname,BornMonth,BornYear,Weight,Height,Gender,YearsInR,YearsInPython,YearsInResearch,City,Lab
+Sa,Au,1,2001,70,179,M,0,0,0,Montpellier,EuroMov (maybe)
+Be,Ce,10,2002,81,171,F,0,1,0,Montpellier,None yet
+Bi,Bi,2,1980,84,178,M,0,0,3,Saint Etienne,BioMontpellier
+De,Ya,12,2004,65,182,M,0,2,0,Montpellier,LIRMM
+Du,Hu,2,2002,75,185,M,0,0,0,Montpellier,Kinvent
+Gr,Ma,6,2002,50,160,F,1,1,1,Montpellier,EuroMov
+Hu,De,9,2004,57,157,F,0,0,0,Montpellier,EuroMov
+Ja,Ca,5,1996,81,189,M,0,0,0,Montpellier,PHyMedExp
+La,Al,11,2004,60,173,M,1,1,0,Montpellier,---
+Le,Th,12,2003,75,172,M,0,0,0,Biarritz,AIA_Sports
+Le,An,5,2005,72,184,M,2,2,0,Montpellier,---
+Lo,Je,5,2001,70,178,M,1,1,1,Montpellier,EuroMov
+Be,Ma,12,2002,70,182,M,0,0,0,Montpellier,Inria
+Pe,Ma,6,2002,84,182,M,0,0,1,Toulouse,U528
+Po,Le,5,2001,58,163,F,0,0,0,Montpellier,Epsylon
+Pr,Ma,8,2001,75,176,M,0,0,1,Montpellier,EuroMov
+Ra,Ax,1,2005,58,177,F,0,0,0,Montpellier,---
+Sa,Vi,8,2001,85,185,M,0,"0,5",0,Montpellier,IES
+Sa,Ma,4,2002,63,167,F,0,0,0,Montpellier,None
+Si,Jo,1,2005,63.5,182,M,0,0,2,Montpellier,EuroMov/USP
+Tu,Tu,7,1999,58,160,F,0,0,0,Montpellier,---
+Zh,Ji,2,2002,65,173,M,0,0,0,Montpellier,EuroMov (maybe)
